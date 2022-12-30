@@ -17,9 +17,9 @@ In this series you will learn how to setup and use Hetzner Cloud, and manage res
 
 ## About Hetzner Cloud
 
-Website: [https://hetzner.com*](https://hetzner.cloud/?ref=JRGtolHM4Qdb)
+**Website:** [https://hetzner.com*](https://hetzner.cloud/?ref=JRGtolHM4Qdb)
 
-Hetzner Cloud is an affordable cloud hosting provider with datacenters in the Europe, and East and West US.
+[Hetzner Cloud](https://hetzner.cloud/?ref=JRGtolHM4Qdb) is an affordable cloud hosting provider with datacenters in the Europe, and East and West US.
 
 It provides server nodes, firewalls, load balancers, generous traffic (20TB per node) and other features that are perfect for development and some production workloads.
 
