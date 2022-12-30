@@ -1,7 +1,5 @@
 # Hetzner Cloud Complete Course by MJTechGuy
 
-<iframe src="https://ghbtns.com/github-btn.html?user=mjtechguy&repo=bhetzner-cloud-complete-course&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
-
 In this series you will learn how to setup and use Hetzner Cloud, and manage resources using the `hcloud` CLI and Terraform.
 
 ---
